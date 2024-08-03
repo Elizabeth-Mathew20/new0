@@ -124,3 +124,7 @@ for i in a.items():
     print(i)
 for i in a.values():
     print(i)    
+
+
+
+print("hai")
